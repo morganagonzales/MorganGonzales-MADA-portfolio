@@ -5,12 +5,12 @@ output:
     toc: FALSE
 ---
 
-# Hello
+# Hi hello and howdy
 
 ### And hello again
 
 Welcome to **my website** and _data analysis portfolio._ 
 
 
-* Please use the `Menu Bar` above to look around.
+* Please use the `Menu Bar` above to look around and get to know me.
 * Have fun!
